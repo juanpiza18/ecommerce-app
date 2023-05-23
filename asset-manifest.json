@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ecommerce-app/static/css/main.8cb4c78c.css",
+    "main.js": "/ecommerce-app/static/js/main.469eb6ef.js",
+    "static/js/787.0c1a86ef.chunk.js": "/ecommerce-app/static/js/787.0c1a86ef.chunk.js",
+    "static/media/home_shirts_1.jpg": "/ecommerce-app/static/media/home_shirts_1.1e15a386a6065672392c.jpg",
+    "static/media/home_women_1.jpg": "/ecommerce-app/static/media/home_women_1.311da53c5d7c17078aeb.jpg",
+    "static/media/home_hats_1.jpg": "/ecommerce-app/static/media/home_hats_1.e9b096e613c422c7cb53.jpg",
+    "static/media/home_sneakers_1.jpg": "/ecommerce-app/static/media/home_sneakers_1.ce20f019f94bc4f71e92.jpg",
+    "static/media/home_jackets_1.jpg": "/ecommerce-app/static/media/home_jackets_1.a6473d9644f9e6bd720a.jpg",
+    "static/media/home_pants_1.jpg": "/ecommerce-app/static/media/home_pants_1.e850269de6bd77863964.jpg",
+    "static/media/home_men_1.jpg": "/ecommerce-app/static/media/home_men_1.1ca288a1b063bd95693e.jpg",
+    "static/media/home_sports_1.jpg": "/ecommerce-app/static/media/home_sports_1.13e0a7541413f7f3d537.jpg",
+    "index.html": "/ecommerce-app/index.html",
+    "main.8cb4c78c.css.map": "/ecommerce-app/static/css/main.8cb4c78c.css.map",
+    "main.469eb6ef.js.map": "/ecommerce-app/static/js/main.469eb6ef.js.map",
+    "787.0c1a86ef.chunk.js.map": "/ecommerce-app/static/js/787.0c1a86ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8cb4c78c.css",
+    "static/js/main.469eb6ef.js"
+  ]
+}
